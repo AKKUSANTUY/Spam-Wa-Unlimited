@@ -39,7 +39,7 @@ def Banner():
   ___) | |_) | (_| | | | | | |   \ V  V / (_| |
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
-                   '''+W+'Creator : Santri Cyber Santuy\n\t\t   Instagram : Akku_Santuy\n\t\t   WhatsApp : +6282134566596')
+                   '''+W+'Creator   : Santri Cyber Santuy\n\t\t   Instagram  : Akku_Santuy\n\t\t   WhatsApp : +6282134566596')
                    
 def RupaRupa():
 	print
@@ -131,7 +131,7 @@ def RupaRupa():
 def Tokped():
 	print
 	MesinTik(C+'\t SPAM TOKOPEDIA CUK')
-	MesinTik(W+'\t================')
+	MesinTik(W+'\t====================')
 	print
 	number = raw_input(''+C+'MASUKKAN NOMOR TARGET CUK'+W+' ('+H+' Ex :'+C+' 0812xxxx '+W+') : ')
 	jumlah = input(''+C+'JUMLAH SPAM CUK'+W+' ('+H+' Ex :'+C+' 3 '+W+') : ')
